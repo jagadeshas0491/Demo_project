@@ -53,7 +53,27 @@ To make necessary dashboard/report you can use below charts and others if requir
 7.	Bar Chart 
 OR any other charts which you feel like to use but should be clear, understandable and should have proper output what clients are looking/seeking for.
 
-![image](https://github.com/user-attachments/assets/7a9871d2-2ead-4eed-8ff4-bf627b1b38be)
+# Employee Attrition
+
+# Problem Statement
+Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
+
+# Task List
+Number of employees by Department and Gender-----
+
+Total employees doing Over Time (Yes/No)---
+
+Total % of Male and total % of Female (use measure to calculate and then display the value in percentage)
+
+Give the job review with the help of job satisfaction (1 and 2 being BAD else GOOD)
+
+Employees by Business Travel
+Count of Marital Status using 3 categories
+
+Number of employees left
+
+Use a chart to display average hourly cost (rate) of employees
+Count of total employees by Job roles
 
 # DashBoard preview
 ![WhatsApp Image 2025-01-28 at 19 59 23_da12b982](https://github.com/user-attachments/assets/94482f89-9341-44a8-86df-dd1a47f8c488)
