@@ -52,3 +52,12 @@ To make necessary dashboard/report you can use below charts and others if requir
 6.	Multi-row Card
 7.	Bar Chart 
 OR any other charts which you feel like to use but should be clear, understandable and should have proper output what clients are looking/seeking for.
+
+![image](https://github.com/user-attachments/assets/7a9871d2-2ead-4eed-8ff4-bf627b1b38be)
+
+# DashBoard preview
+![WhatsApp Image 2025-01-28 at 19 59 23_da12b982](https://github.com/user-attachments/assets/94482f89-9341-44a8-86df-dd1a47f8c488)
+
+
+
+
