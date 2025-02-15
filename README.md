@@ -76,7 +76,8 @@ Use a chart to display average hourly cost (rate) of employees
 Count of total employees by Job roles
 
 # DashBoard preview
-![WhatsApp Image 2025-01-28 at 19 59 23_da12b982](https://github.com/user-attachments/assets/94482f89-9341-44a8-86df-dd1a47f8c488)
+![Screenshot 2025-02-14 184100](https://github.com/user-attachments/assets/afb57fae-5d7d-49df-8eb3-efbf7636b0c6)
+
 
 
 
